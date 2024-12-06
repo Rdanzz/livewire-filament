@@ -15,7 +15,6 @@
                 display: none !important;
             }
         </style>
- 
         @filamentStyles
 
         <!-- Scripts -->
